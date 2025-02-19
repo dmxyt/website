@@ -7,21 +7,21 @@ headerImage: true
 tag:
 - Reglas
 - Comunidad
-- Starlex
+- Grupo Daemonix 
 - Games360
 star: true
 category: blog
-author: starlex
+author: Daemonix
 description: Lea nuestros terminos y condiciones
 ---
 
 #### Estas reglas serviran para que nuestros usuarios, Disfruten nuestro contenido sin tener algun problema.
 
-###### *#1:) No compartir externamente las cuentas ya que estas cuentas son exclusivamente de esta comunidad creada por Alejandro Shadow (Starlex), y JP (Games360)
+###### *#1:) No compartir externamente las cuentas ya que estas cuentas son exclusivamente de esta comunidad creada por Alexis Cabrera (DMX Alexios).
 
-###### *#2:) Turnarse en los grupos de las cuentas, para que evitemos la saturacion recuerda utilizar los metodos de juego, [ir a metodos de juego](https://starlex.team/mdj).
+###### *#2:) Turnarse en los grupos de las cuentas, para que evitemos la saturacion recuerda utilizar los metodos de juego, [ir a metodos de juego](https://dmxyt.github.io/website/mdj).
 
-###### *#3:) Esto no es oblitario, pero igual si quieres apoyar, puedes suscribirte a nuestro canal de youtube [Canal de Starlex](https://youtube.com/@bystarlex), [Canal de JP](https://youtube.com/@360GamesX).
+###### *#3:) Esto no es oblitario, pero igual si quieres apoyar, puedes suscribirte a nuestro canal de youtube [Canal de DMX Alexios](https://youtube.com/@DaemonixGames).
 
 ###### *#4:) No ofensas de ningun tipo. (politica,racismo,regionalismo, referencias lgbt. etc) que pueda resultar ofensivo para alguien.
 
