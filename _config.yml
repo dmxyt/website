@@ -1,5 +1,5 @@
 # main text of home
-title: StarLex
+title: Daemonix LLC
 bio: A professional gamer and programmer and also an anime lover
 
 # twitter summary info
@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://resume.strx.us
+resume-url: https://resume.dmxyt.github.io/website/
 
-url: https://strx.us
+url: https://dmxyt.github.io/website/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -30,24 +30,25 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: starlexdev # enter this from your disqus account
+  shortname: Daemonix # enter this from your disqus account
   categories: [blog, project, accounts] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: @bystarlex
-twitter: starlexdev
-instagram: starlexdev
+# facebook: @alexorlexia
+#twitter: 
+#instagram: starlexdev
 # linkedin: starlexdev
-github: starlexdev
-email: starlex@tensi.org
+#github: dmxyt
+YouTube : daemonixgames
+email: alexioslord@gmail.com
 
 authors:
   starlex:
-    name: Alejandro Shadow
+    name: DMX Alexios
     bio: A professional gamer and programmer and also an anime lover
     external-image: true
     picture: https://cdn.jsdelivr.net/gh/Starlexdev/indigo@dd3176c2b8c27fa7194cc66dcd60e0f66c669389/assets/images/profile.jpg
-    twitter: starlexdev
+    # twitter: 
   
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
