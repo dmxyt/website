@@ -107,3 +107,5 @@ The Darness 1
 Of Dragon rising
 
 Brothers in arms
+
+[![Daemonix Letters](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D200FF&center=true&width=435&lines=Grupo+Daemonix;DMX+Clan;Gamers;Xbox;free+Games;Profesional;Daemonix+Games;Daemonix+%C2%A9+Alexios)](https://youtube.com/@Daemonixgames)
