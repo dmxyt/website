@@ -11,7 +11,7 @@ tag:
 - Xbox 360
 star: true
 category: blog
-author: Daemonix
+author: daemonix
 description: Esta es la lista de juegos con bloqueo regional
 ---
 
