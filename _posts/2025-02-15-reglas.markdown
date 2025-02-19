@@ -2,7 +2,7 @@
 title: "Reglas de la comunidad"
 layout: post
 date: 2025-02-18 10:41
-image: /assets/images/starlexred.png
+image: https://cdn.jsdelivr.net/gh/dmxyt/website@gh-pages/assets/images/reglas.png
 headerImage: true
 tag:
 - Reglas
