@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![StarLex]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Daemonix]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 # Alexander Cabrera (Alexios)
 
