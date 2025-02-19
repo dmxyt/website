@@ -8,7 +8,7 @@ description: a technology, anime, videogames and news blog
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://github.com/dmxyt/website/blob/gh-pages/assets/images/profile.jpg
+picture: https://cdn.jsdelivr.net/gh/dmxyt/website@gh-pages/assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -47,7 +47,7 @@ authors:
     name: DMX Alexios
     bio: A professional gamer and programmer and also an anime lover
     external-image: true
-    picture: https://github.com/dmxyt/website/blob/gh-pages/assets/images/profile.jpg
+    picture: https://cdn.jsdelivr.net/gh/dmxyt/website@gh-pages/assets/images/profile.jpg
     # twitter: 
   
 # do you want a larger site? change the option below
